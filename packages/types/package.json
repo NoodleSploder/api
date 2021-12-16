@@ -28,7 +28,8 @@
     "@polkadot/types-create": "6.12.2-4",
     "@polkadot/util": "^8.1.2",
     "@polkadot/util-crypto": "^8.1.2",
-    "rxjs": "^7.4.0"
+    "rxjs": "^7.4.0",
+    "@sora-substrate/type-definitions": "^1.6.29"
   },
   "devDependencies": {
     "@polkadot/keyring": "^8.1.2",
